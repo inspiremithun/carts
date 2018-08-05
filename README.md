@@ -90,6 +90,8 @@ java -jar target/carts.jar
 
 `curl http://localhost:8081`
 
-# Push
+# Push 
 
 `GROUP=weaveworksdemos COMMIT=test ./scripts/push.sh`
+
+#TEST
